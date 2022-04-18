@@ -1,1 +1,4 @@
 git init -to intialize git
+git status -ting all untracked files
+git add -A -add to stagingArea
+git add -m "message" - add to local repositary
